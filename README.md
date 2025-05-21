@@ -13,4 +13,4 @@ If you are looking to contribute and wish to download the base/English script, l
 --TODO--
 
 # Licence
-As with XMB, the languages project is under the GPLv3. You can read more about it [here](https://www.gnu.org/licenses/gpl-3.0.en.html), or consult the LICENSE.md file directly.
+As with XMB, the languages project is under the GPLv3. You can read more about it [here](https://www.gnu.org/licenses/gpl-3.0.en.html), or consult the LICENSE file directly.
